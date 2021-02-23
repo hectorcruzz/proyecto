@@ -10,8 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        header ("Locaton: listar.php")
+        <?php exho "Hola"
+ 
         ?>
     </body>
 </html>
